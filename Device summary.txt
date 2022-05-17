@@ -1,0 +1,39 @@
+Hardware
+Serial Number                              YW00F5664114
+Device ID                                  6H800F664114
+Brand                                      TCL
+Roku Model Number                          6107X
+Brand Model Number                         TCL 55UP130
+Platform Name                              ftworth
+
+Software
+OS Version (TeamCity)                      22C.00E04149A
+Account                                    kulwant.singh@globallogic.com
+Channel Store Server                       api.roku.com
+Auth Token Permissions                     privateecp,logcast
+Secure                                     true
+Country                                    US
+Locale                                     en_US
+
+Network
+Connection Type                            wifi
+IP Address                                 172.17.172.18
+
+Roku Libraries
+ACR Lib Channel (98832)                    3.0.248
+DFP Ad Service (54383)                     2.1.69
+Grand Central (155883)                     7.0.53
+Kids & Family on The Roku Channel (606242) 6.5.3
+Roku Ads Library (58484)                   2.18.32
+Roku Analytics Library (109022)            1.4.7
+Roku Browser (262399)                      84.9.0
+Roku Dynamic Menu (562859)                 5.5.7
+Roku Ecosystem (173735)                    2.0.16
+Roku Featured Free Prod (250045)           2.8.20
+Roku Legal Agreements (594971)             2.2.10
+Roku My Offers (295059)                    6.0.15
+Roku Pay Framework Library (596080)        4.0.18
+Roku Search GC (272343)                    6.5.3
+Roku Search GC (272343_9eab)               2.5.46
+Roku Titan Library (72916)                 1.0.160
+The Roku Channel (151908)                  6.0.15
